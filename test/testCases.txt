@@ -1,0 +1,6 @@
+1. As a Martha’s Good Eats customer, I can see a web page listing all the users from the database.
+2. As a Martha’s Good Eats business partner, I can fetch all the users from the database from a REST API. The records will be returned as JSON data.
+3. As a Martha’s Good Eats staff member, I can see a web page that will allow me to add a new item to the users table of the database.
+4. As a Martha’s Good Eats staff member, I can see a web page that will allow me to edit an existing item in the users table of the database.
+5. As a Martha’s Good Eats staff member, I can delete an item from the users table of the database.
+6. As a Martha’s Good Eats customer, I can search for users by username or email.
