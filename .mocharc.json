@@ -1,0 +1,6 @@
+{
+    "require": [],
+    "extensions": ["js"],
+    "spec": "test/**/*.test.js"
+  }
+  
